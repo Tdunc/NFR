@@ -48,7 +48,7 @@ const collections = [
                   className="w-full h-full object-center object-cover"
                 />
               </div>
-              <div className="absolute inset-0 bg-gray-900 opacity-50" />
+              <div className="absolute inset-0 opacity-50" />
             </div>
             <div className="w-full bg-white h-48" />
           </div>
