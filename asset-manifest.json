@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/NFR/static/css/main.7c11caea.css",
+    "main.js": "/NFR/static/js/main.9c2e3272.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/NFR/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/room-after.jpg": "/NFR/static/media/room-after.a809328d29e9c6b98d52.jpg",
+    "static/media/bathroom-after.jpg": "/NFR/static/media/bathroom-after.1b9e92f0f2a1272ac9b1.jpg",
+    "index.html": "/NFR/index.html",
+    "main.7c11caea.css.map": "/NFR/static/css/main.7c11caea.css.map",
+    "main.9c2e3272.js.map": "/NFR/static/js/main.9c2e3272.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/NFR/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c11caea.css",
+    "static/js/main.9c2e3272.js"
+  ]
+}
